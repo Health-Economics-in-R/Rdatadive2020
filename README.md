@@ -4,7 +4,7 @@ __Jan 21 - 22, 2020. Queens University Belfast__
 <br/>
 <br/>
 
-![](http://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/qub.jpg)
+![](qub.jpg)
 
 Welcome to the repository for the 2020 health economics in R hackathon.
 Following the first event at Imperial College London in November 2019 we will be hosting this event at Queens University Belfast.
