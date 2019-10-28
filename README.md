@@ -1,4 +1,4 @@
-# [Rhackathon2020](https://n8thangreen.wixsite.com/hermes-hack-london) <img src="hermes_Rwings.svg" width="120" align="right" />
+# [Rdatadive2020](https://n8thangreen.wixsite.com/hermes-hack-london) <img src="hermes_Rwings.svg" width="120" align="right" />
 __Jan 21 - 22, 2020. Queens University Belfast__
 
 <br/>
@@ -6,8 +6,8 @@ __Jan 21 - 22, 2020. Queens University Belfast__
 
 ![](qub.jpg)
 
-Welcome to the repository for the 2020 health economics in R hackathon.
-Following the first event at Imperial College London in November 2019 we will be hosting this event at Queens University Belfast.
+Welcome to the repository for the 2020 health economics in R data dive.
+Following the first hackathon event at Imperial College London in November 2019 we will be hosting this event at Queens University Belfast.
 
 * Please post ideas for projects, discussion topics, and sessions as [issues](https://github.com/Health-Economics-in-R/Rhackathon19/issues/).
 
