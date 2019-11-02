@@ -1,5 +1,5 @@
 # [Rdatadive2020](https://n8thangreen.wixsite.com/hermes-hack-london) <img src="hermes_Rwings.svg" width="120" align="right" />
-__Jan 21 - 22, 2020. Queens University Belfast__
+__Jan 21 - 22, 2020. Queen's University Belfast__
 
 <br/>
 <br/>
@@ -19,4 +19,4 @@ To ensure a safe, enjoyable, and friendly experience for everyone who participat
 
 ## Support
 
-This meeting is made possible by generous support from the Medical Research Council, Imperial College London and Queens University Belfast.
+This meeting is made possible by generous support from the Medical Research Council, Imperial College London and Queen's University Belfast.
